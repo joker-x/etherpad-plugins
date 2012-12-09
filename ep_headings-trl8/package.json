@@ -1,0 +1,27 @@
+{
+  "description": "Fork to test multilanguage plugins in Etherpad Lite: Adds heading support.",
+  "name": "ep_headings-trl8",
+  "version": "0.1.4",
+  "author": 
+  {
+      "name": "Iván Eixarch",
+      "email": "ivan@sinanimodelucro.org>"
+  },
+  "contributors": [
+  	{
+		"name": "Matthias Bartelmeß",
+  		"email": "mba@fourplusone.de"
+	}
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/joker-x/etherpad-plugins",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joker-x/etherpad-plugins.git"
+  },
+  "readmeFilename": "README.md"
+}
