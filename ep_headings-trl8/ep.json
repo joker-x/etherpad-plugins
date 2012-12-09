@@ -3,17 +3,17 @@
     {
       "name": "main",
       "client_hooks": {
-        "aceEditorCSS": "ep_headings/static/js/index",
-        "aceDomLineProcessLineAttributes": "ep_headings/static/js/index",
-        "postAceInit": "ep_headings/static/js/index",
-        "aceInitialized": "ep_headings/static/js/index",
-        "aceAttribsToClasses": "ep_headings/static/js/index",
-        "collectContentPre": "ep_headings/static/js/shared",
-        "aceRegisterBlockElements": "ep_headings/static/js/index"
+        "aceEditorCSS": "ep_headings-trl8/static/js/index",
+        "aceDomLineProcessLineAttributes": "ep_headings-trl8/static/js/index",
+        "postAceInit": "ep_headings-trl8/static/js/index",
+        "aceInitialized": "ep_headings-trl8/static/js/index",
+        "aceAttribsToClasses": "ep_headings-trl8/static/js/index",
+        "collectContentPre": "ep_headings-trl8/static/js/shared",
+        "aceRegisterBlockElements": "ep_headings-trl8/static/js/index"
       },
       "hooks": {
-        "eejsBlock_editbarMenuLeft": "ep_headings/index",
-        "collectContentPre": "ep_headings/static/js/shared"
+        "eejsBlock_editbarMenuLeft": "ep_headings-trl8/index",
+        "collectContentPre": "ep_headings-trl8/static/js/shared"
       }
     }
   ]
