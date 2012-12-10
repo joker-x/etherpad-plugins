@@ -3,7 +3,7 @@ var _, $, jQuery;
 var $ = require('ep_etherpad-lite/static/js/rjquery').$;
 var _ = require('ep_etherpad-lite/static/js/underscore');
 var headingClass = 'heading';
-var cssFiles = ['ep_headings/static/css/editor.css'];
+var cssFiles = ['ep_headings-trl8/static/css/editor.css'];
 
 // All our tags are block elements, so we just return them.
 var tags = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6'];
